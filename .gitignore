@@ -1,0 +1,51 @@
+# data 폴더
+data
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Conda environments
+conda-meta/
+*.conda
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE 관련
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs & temp files
+logs/
+*.log
+debug.log
+tmp/
+temp/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
