@@ -1,5 +1,6 @@
 # data 폴더
 data
+dataset
 
 # Python bytecode
 __pycache__/
