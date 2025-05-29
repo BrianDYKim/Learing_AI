@@ -15,6 +15,7 @@ venv/
 .venv/
 pip-log.txt
 pip-delete-this-directory.txt
+.env
 
 # Conda environments
 conda-meta/
