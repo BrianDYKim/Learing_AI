@@ -64,4 +64,3 @@ Decoder Layer = (self-Attention with mask) -> Add/Norm -> (Encoder-Decoder Atten
 
 #### 2.2 Self-Attention
 
-TODO
